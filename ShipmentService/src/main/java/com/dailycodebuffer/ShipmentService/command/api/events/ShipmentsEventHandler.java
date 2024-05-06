@@ -1,6 +1,6 @@
 package com.dailycodebuffer.ShipmentService.command.api.events;
 
-import com.dailycodebuffer.CommonService.events.OrderShippedEvent;
+import com.prodify.cqrs.CommonService.events.OrderShippedEvent;
 import com.dailycodebuffer.ShipmentService.command.api.data.Shipment;
 import com.dailycodebuffer.ShipmentService.command.api.data.ShipmentRepository;
 import org.axonframework.eventhandling.EventHandler;

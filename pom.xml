@@ -11,7 +11,7 @@
 	</parent>
 
 	<packaging>pom</packaging>
-	<groupId>com.dailycodebuffer</groupId>
+	<groupId>com.prodify.cqrs</groupId>
 	<artifactId>spring-boot-axon-cqrs-es</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-axon-cqrs-es</name>

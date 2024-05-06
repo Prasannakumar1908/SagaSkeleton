@@ -3,19 +3,19 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.dailycodebuffer</groupId>
+		<groupId>com.prodify.cqrs</groupId>
 		<artifactId>spring-boot-axon-cqrs-es</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	
-	<groupId>com.dailycodebuffer</groupId>
+	<groupId>com.prodify.cqrs</groupId>
 	<artifactId>ShipmentService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ShipmentService</name>
 	<description>Demo project for Spring Boot</description>
 	<dependencies>
 		<dependency>
-			<groupId>com.dailycodebuffer</groupId>
+			<groupId>com.prodify.cqrs</groupId>
 			<artifactId>CommonService</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
